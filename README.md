@@ -4,8 +4,11 @@ repositório para a matéria de inteligência artificial do professor Fabiano Be
 Link para o Google colab:https://colab.research.google.com/drive/1hXwgMG5ORFXqfB4RrFTH8wH5_2jGAOeg#scrollTo=OAoWMlUwocSF
 # Conteudo
 1. Hello, World! 
+
 o Imprima "Hello, World!" no console. 
+
 2. Soma de Dois Números 
+
 o Crie um programa que peça ao usuário dois números e exiba a soma 
 deles. 
 3. Cálculo da Área do Círculo 
