@@ -7,4 +7,5 @@ Link para o Google colab: https://colab.research.google.com/drive/1kTFZcNb0O7tQW
 
 # Conteudo
 arquivo Exercicios_Python_Eduardo_6A_Matutino.ipynb com resolução dos exercicios
+
 arquivo Exercícios_DataScience_Eduardo6A_Matutino.ipynb com resolução dos exercicios
