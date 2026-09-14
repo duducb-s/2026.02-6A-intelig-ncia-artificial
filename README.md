@@ -5,7 +5,11 @@ Link para o Google colab: https://colab.research.google.com/drive/1hXwgMG5ORFXqf
 
 Link para o Google colab: https://colab.research.google.com/drive/1kTFZcNb0O7tQWtvDUtZ6BG3PzU049ozF
 
+Link para o o Google colab: https://colab.research.google.com/drive/1d3YbkhYBFJRT2rXRvQ7yiQqCljpAffFL#scrollTo=UXZn3ap1uFuT
+
 # Conteudo
 arquivo Exercicios_Python_Eduardo_6A_Matutino.ipynb com resolução dos exercicios
 
 arquivo Exercícios_DataScience_Eduardo6A_Matutino.ipynb com resolução dos exercicios
+
+arquivos Tarefa_SMViris_Eduardo_6A_matutino.ipynb com resolução dos exercicios
