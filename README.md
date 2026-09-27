@@ -11,6 +11,8 @@ link para o kaggle contendo a reavaliação do dataset iris: https://www.kaggle.
 
 link para o kaggle contendo a reavaliação do dataset Breast Cancer Wisconsin: https://www.kaggle.com/code/eduardocostabraga/breast-diagnostic-eduardo6a-matutino
 
+Link para o o Google colab: https://colab.research.google.com/drive/1Gmgh-ao6eMbuiz8bL8ll_8eVt2RvqwtB?usp=sharing#scrollTo=MYtx8YVwi2YU
+
 # Conteudo
 arquivo Exercicios_Python_Eduardo_6A_Matutino.ipynb com resolução dos exercicios
 
@@ -21,3 +23,6 @@ arquivos Tarefa_SMViris_Eduardo_6A_matutino.ipynb com resolução dos exercicios
 arquivo reavalia-o-do-dataset-iris-eduardocosta-6a-manh.ipynb contendo resolução do dataset
 
 arquivo breast-diagnostic-eduardo6a-matutino contendo a resolução do dataset
+
+arquivo Summit_IA.ipynb contendo a limpeza e analise do summit
+
