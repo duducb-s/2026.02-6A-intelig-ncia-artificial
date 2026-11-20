@@ -30,4 +30,5 @@ arquivo Summit_IA.ipynb contendo a limpeza e analise do summit
 
 arquivo Atividade_AutoML_Iris contendo resolução do exercicio
 
+Arquivo Regressao_ScikitLearn_Diabetes_Eduardo_6A_Matutino contendo resolução dos exercícios 
 
