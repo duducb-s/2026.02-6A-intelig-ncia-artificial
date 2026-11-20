@@ -14,7 +14,7 @@ link para o kaggle contendo a reavaliação do dataset Breast Cancer Wisconsin: 
 Link para o o Google colab: https://colab.research.google.com/drive/1Gmgh-ao6eMbuiz8bL8ll_8eVt2RvqwtB?usp=sharing#scrollTo=MYtx8YVwi2YU
 
 Link para o o Google colab:: https://colab.research.google.com/drive/1zJgaW0gPmoKiu86bYKPqRI1MrY2gjaOx#scrollTo=360e5f5a
-
+Link para o o Google colab https://colab.research.google.com/drive/14cQcFdF4Gey2bSUbvpbaHp_9vXYM0NXH
 # Conteudo
 arquivo Exercicios_Python_Eduardo_6A_Matutino.ipynb com resolução dos exercicios
 
